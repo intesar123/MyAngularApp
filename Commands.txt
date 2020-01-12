@@ -1,0 +1,8 @@
+ 1.Installing Angular CLI 8
+npm install -g @angular/cli
+
+2.Create new angular project
+ng new AngularPractice
+
+3.run the project
+ng serve --open

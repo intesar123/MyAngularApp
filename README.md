@@ -1,6 +1,7 @@
-# MyAngularApp
+# View the full practice project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+ [Click Here](http://emate.intesar.ind.in/home) to view the website
+ [Click Here](http://emate.intesar.ind.in/home) to view admin website
 
 ## Development server
 

@@ -1,7 +1,7 @@
 # View the full practice project
 
- [Click Here](http://emate.intesar.ind.in/home) to view the website
- [Click Here](http://emate.intesar.ind.in/home) to view admin website
+ [Click Here](http://emate.intesar.ind.in/) to view the website
+ [Click Here](http://admin.intesar.ind.in/) to view admin website
 
 ## Development server
 
